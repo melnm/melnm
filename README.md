@@ -10,5 +10,5 @@ I also specialize in GIS, so I imagine that you'll eventually see code for vario
 - 🔭 I’m currently working on the basics of github (and my degree!)
 - 🌱 I’m currently learning python, and getting a refresher in ArcGIS
 - 😄 Pronouns: They/them
-- ⚡ Fun fact: I took a two and a half week road trip with my cat, Duckie, this summer! We went through 11 states, visited 7 national parks, and saw baseball games at 5 MLB stadiums!
+- ⚡ Fun fact: I took a two and a half week road trip with my cat, Duckie, last summer! We went through 11 states, visited 7 national parks, and saw baseball games at 5 MLB stadiums!
 
